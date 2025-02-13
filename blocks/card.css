@@ -1,0 +1,32 @@
+.card {
+  width: 413px;
+  height: 445px;
+  list-style-type: none;
+}
+
+.card__image {
+  width: 413px;
+  height: 413px;
+  border-radius: 8px;
+}
+
+.card__content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card__title {
+}
+
+.card__list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 40px 20px;
+}
+
+.card__like-btn {
+  border: none;
+  background-color: transparent;
+}
+.card__like-image {
+}
