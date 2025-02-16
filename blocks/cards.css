@@ -1,9 +1,16 @@
 .cards {
-  width: 1280;
-  height: 970;
+  width: 1280px;
+  height: 970px;
   top: 310px;
   left: 80px;
   padding-bottom: 40px;
   gap: 20px;
   border-bottom-width: 1px;
+  margin: 0 auto;
+}
+/* desktop */
+@media screen and (max-width: 1440px) {
+  .cards {
+    max-width: 100%;
+  }
 }
