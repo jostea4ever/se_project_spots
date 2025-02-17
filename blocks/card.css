@@ -3,7 +3,7 @@
 }
 
 .card__image {
-  max-width: 413px;
+  width: 413px;
   height: 413px;
   border-radius: 8px;
   display: block;
