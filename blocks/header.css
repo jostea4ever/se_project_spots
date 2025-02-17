@@ -1,6 +1,5 @@
 .header {
   display: flex;
-  padding: 10px 0;
   justify-content: center;
   background-color: white;
 }
@@ -8,4 +7,5 @@
 .header__logo {
   width: 94px;
   height: 26px;
+  padding: 10px 0;
 }
