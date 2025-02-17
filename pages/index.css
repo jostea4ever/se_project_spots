@@ -1,4 +1,4 @@
-@import url(../blocks/normalize.css);
+@import url(../vendor/normalize.css);
 @import url(../vendor/font.css);
 @import url(../blocks/profile.css);
 @import url(../blocks/page.css);
