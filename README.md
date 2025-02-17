@@ -39,6 +39,8 @@ Flat BEM file structure
 
 **Images**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
+I optimized my images using (https://tinypng.com/), so my project loads faster.
 
-Good luck and have fun!
+**VEDIO LINK**
+Here's the vedio-link of my Spot project.
+https://drive.google.com/file/d/1Djpzr69mLZFOG-NEFmvYy750Lq_0uXFp/view?usp=drive_link

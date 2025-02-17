@@ -3,7 +3,7 @@
 }
 
 .card__image {
-  width: 413px;
+  max-width: 413px;
   height: 413px;
   border-radius: 8px;
   display: block;
@@ -35,4 +35,34 @@
   height: 20px;
   background-image: url("../images/Union.svg");
   opacity: 40%;
+}
+
+@media screen and (max-width: 627px) {
+  .card {
+    max-width: 288px;
+    margin: 0 auto;
+  }
+
+  .cardlike-btn {
+    width: 20px;
+    height: 18px;
+  }
+
+  .cardimage {
+    width: 288px;
+    height: 288px;
+  }
+
+  .cardslist {
+    gap: 20px;
+  }
+
+  .cardcontent {
+    width: 288px;
+  }
+
+  .card__title {
+    font-size: 16px;
+    max-width: 250px;
+  }
 }
