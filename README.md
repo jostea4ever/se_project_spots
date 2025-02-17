@@ -41,6 +41,6 @@ Flat BEM file structure
 
 I optimized my images using (https://tinypng.com/), so my project loads faster.
 
-**VEDIO LINK**
-Here's the vedio-link of my Spot project.
+**VIDEO LINK**
+Here's the video-link of my Spot project.
 https://drive.google.com/file/d/1Djpzr69mLZFOG-NEFmvYy750Lq_0uXFp/view?usp=drive_link
